@@ -12,3 +12,7 @@ src="uniq.rs"
 [[bin]]
 name="sort"
 src="sort.rs"
+
+[[bin]]
+name="ls"
+srd="ls.rs"
